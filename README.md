@@ -1,2 +1,5 @@
 # CMSE202-s23-turnin
-Turning stuff in for class
+
+Name: Jeremy Rindal
+
+Section: 001
